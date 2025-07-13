@@ -40,4 +40,4 @@ A modern file manager for macOS built with SwiftUI that offers better performanc
 
 ## License
 
-This project is for demonstration purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
